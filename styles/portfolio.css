@@ -145,3 +145,14 @@ font-weight: 700;
     text-align: center;
     margin-top: 50px;
 }
+
+
+/* footer */
+.contact  input,textarea{
+    margin-bottom: 25px;
+    display: block;
+    padding: 18px 35px;
+    color: #757575;
+
+}
+
