@@ -1,0 +1,59 @@
+/* common shared styles */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary{
+    width: 150px;
+height: 64px;
+border-radius: 5px;
+background: #FD6E0A;
+font-size: 20px;
+font-weight: 700;
+color: white;
+}
+/* nav related style */
+nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 200px;
+}
+.nav-title{
+    color: #181818;
+font-size: 45px;
+font-weight: 800;
+
+}
+.text-primaray{
+    color: #fd6e0a;
+}
+
+nav > ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+    color: #474747;
+}
+/* header related styles */
+.header{
+    background: #FFF8F3;
+    /* width: 1600px;
+height: 837px; */
+
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile-picture[
+    width: 584px;
+height: 676px;
+]
